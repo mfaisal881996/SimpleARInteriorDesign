@@ -1,0 +1,27 @@
+newmtl mat22
+  Kd 0.62 0.62 0.62
+
+newmtl mat10
+  Kd 0.30 0.69 0.31
+
+newmtl mat8
+  Kd 0.96 0.26 0.21
+
+newmtl mat23
+  Kd 0.10 0.10 0.10
+
+newmtl mat24
+  Ka 0.58 0.65 1.00
+  Kd 0.92 0.95 0.94
+  Ks 1 1 1
+  illum 9
+  Ns 300
+  d 0.4
+  Ni 1.5
+
+newmtl mat20
+  Kd 0.47 0.33 0.28
+
+newmtl mat21
+  Kd 1.00 1.00 1.00
+
